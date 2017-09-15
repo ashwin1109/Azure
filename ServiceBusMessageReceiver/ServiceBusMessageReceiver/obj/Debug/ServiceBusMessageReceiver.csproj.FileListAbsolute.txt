@@ -1,0 +1,10 @@
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\bin\Debug\ServiceBusMessageReceiver.exe.config
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\bin\Debug\ServiceBusMessageReceiver.exe
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\bin\Debug\ServiceBusMessageReceiver.pdb
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\bin\Debug\Microsoft.ServiceBus.dll
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\bin\Debug\Microsoft.ServiceBus.xml
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\obj\Debug\ServiceBusMessageReceiver.exe
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\obj\Debug\ServiceBusMessageReceiver.pdb
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageReceiver\ServiceBusMessageReceiver\obj\Debug\ServiceBusMessageReceiver.csprojResolveAssemblyReference.cache

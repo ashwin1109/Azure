@@ -1,0 +1,10 @@
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\bin\Debug\ServiceBusMessageSender.exe.config
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\bin\Debug\ServiceBusMessageSender.exe
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\bin\Debug\ServiceBusMessageSender.pdb
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\bin\Debug\Microsoft.ServiceBus.dll
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\bin\Debug\Microsoft.ServiceBus.xml
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\obj\Debug\ServiceBusMessageSender.exe
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\obj\Debug\ServiceBusMessageSender.pdb
+E:\20487A\Alfiles\QueuesDemo\End\ServiceBusMessageSender\ServiceBusMessageSender\obj\Debug\ServiceBusMessageSender.csprojResolveAssemblyReference.cache
